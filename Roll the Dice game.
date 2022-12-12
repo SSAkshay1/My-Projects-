@@ -1,0 +1,29 @@
+import random
+n=int(input("enter the number here: "))
+
+# Minimum and Maximum numbers on the dice are 1 and 6.
+min = 1
+max = 6
+
+Mac="y"
+
+
+# Setting the default value of flag to yes.
+while Mac = "y"
+
+
+while Flag == "yes":
+  print("enter 'y' to role the dice again")
+  print("Now role the dice... ")
+  print("Number on the dice is: ")
+  print(a)
+  if a==n:
+    i=i+1
+    print("your score is ",i)
+  else:
+    print("no matching found")
+    print("your score is still",i)
+  print()
+  print()
+
+  Mac = input("Dice can be rolled again ")  
